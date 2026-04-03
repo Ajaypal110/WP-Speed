@@ -1,5 +1,5 @@
 === NitroMan - Speed Optimization Engine ===
-Contributors: ajaypalsingh
+Contributors: Ajaypal Singh
 Tags: performance, speed, cache, optimization, images
 Requires at least: 5.8
 Tested up to: 6.5
